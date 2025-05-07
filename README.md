@@ -22,4 +22,7 @@ This project uses a 4-layer PCB design:
 4. **Bottom Layer (Layer 4)** – Signal
 
 ![image](https://github.com/user-attachments/assets/e7751274-63b1-4901-b542-e26c032f8f58)
+![image](https://github.com/user-attachments/assets/e50bac94-d9b7-4dea-a72d-ab1e41ec9a0e)
+![image](https://github.com/user-attachments/assets/ccfd063e-039d-45cc-bbcd-32abc2583d04)
+
 
