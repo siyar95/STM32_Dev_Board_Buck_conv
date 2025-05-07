@@ -20,3 +20,6 @@ This project uses a 4-layer PCB design:
 2. **Inner Layer 1 (Layer 2)** – Ground (GND)  
 3. **Inner Layer 2 (Layer 3)** – 3.3V Power Plane  
 4. **Bottom Layer (Layer 4)** – Signal
+
+![image](https://github.com/user-attachments/assets/e7751274-63b1-4901-b542-e26c032f8f58)
+
